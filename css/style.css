@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+}
+
+h1{
+	color: green;
+	
+}
+
+.btn{
+	background-color: rgb(75, 230, 139);
+	height: 70px;
+	width: 100px;
+	border:10px 10px 10px 10px;
+	font-size: 50px;
+}
+
+.btn2{
+	
+	color: brown;
+	background-color: rgb(75, 2, 139);
+}
+.screen{
+	height: 50px;
+	font-size: 3em;
+	width: 300px;
+	text-align: right;
+}
+.row{
+	background-color: beige; 
+	padding-top: 5px;
+}
+
